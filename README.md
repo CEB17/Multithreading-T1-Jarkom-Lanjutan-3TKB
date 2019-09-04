@@ -1,2 +1,2 @@
-# multithreading-t1-jarkom-lanjutan-3TKB
+# Multithreading-T1-Jarkom-Lanjutan-3TKB
 Tugas Jaringan Komputer Lanjutan, Multithreading Fibonacci dan Prima
