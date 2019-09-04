@@ -20,10 +20,11 @@ void thread_function()  //program dari bilangan prima
             cout<<a<<" ";
             
         }
-        //::cout<<"Thread = "<<this_thread::get_numb()<<std::endl; 
+        ::cout<<"Thread = "<<this_thread::get_id()<<std::endl; ///digunakanuntuk memberikan id secara acak
     }
        
 }
+
 
 int main()  
 {
